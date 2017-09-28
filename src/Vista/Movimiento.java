@@ -15,8 +15,8 @@ import java.awt.Image;
 import javax.swing.ImageIcon;
 
 /**
- * @web http://jc-mouse.blogspot.com/
- * @author Mouse
+ * 
+ * @author Josue
  */
 public class Movimiento {
 
